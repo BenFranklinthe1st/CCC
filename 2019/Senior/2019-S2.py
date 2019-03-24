@@ -89,6 +89,6 @@ for i in range(times):
     for i in primes:
         if (i < max_check):
             resultant = number - i
-            if is_prime(resultant):
+            if resultant is in primes:
                 print(i, " ", resultant)
                 break
