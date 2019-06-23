@@ -1,3 +1,3 @@
 # CCC
 
-Using practice CCC questions to learn python 3.
+Using practice CCC questions.
